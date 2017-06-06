@@ -20,7 +20,7 @@ them using pip:
 You also must make sure you have `sqlite3` installed. This should come
 installed if you are on MacOS X. On Ubuntu, you can install using:
 
-    $ apt-get insall sqlite3
+    $ sudo apt-get insall sqlite3
 
 ## Usage
 
